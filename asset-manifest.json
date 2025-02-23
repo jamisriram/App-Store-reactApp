@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App-Store-reactApp/static/css/main.03ed417f.css",
+    "main.js": "/App-Store-reactApp/static/js/main.609ebaf2.js",
+    "static/js/453.8015fb53.chunk.js": "/App-Store-reactApp/static/js/453.8015fb53.chunk.js",
+    "index.html": "/App-Store-reactApp/index.html",
+    "main.03ed417f.css.map": "/App-Store-reactApp/static/css/main.03ed417f.css.map",
+    "main.609ebaf2.js.map": "/App-Store-reactApp/static/js/main.609ebaf2.js.map",
+    "453.8015fb53.chunk.js.map": "/App-Store-reactApp/static/js/453.8015fb53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ed417f.css",
+    "static/js/main.609ebaf2.js"
+  ]
+}
